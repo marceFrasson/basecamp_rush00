@@ -6,7 +6,7 @@
 /*   By: mfrasson <mfrasson@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/11/22 15:38:00 by mfrasson          #+#    #+#             */
-/*   Updated: 2020/11/25 21:38:16 by mfrasson         ###   ########.fr       */
+/*   Updated: 2021/07/19 14:23:17 by mfrasson         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,6 +22,6 @@ void	rush(int x, int y);
 
 int		main(void)
 {
-	rush('a', 0);
+	rush(2, 4);
 	return (0);
 }
